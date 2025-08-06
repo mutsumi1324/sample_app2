@@ -1,0 +1,18 @@
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+/home/mutsumi/.rbenv/versions/3.2.8/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250806-61233-m7kl74 sitelibdir\=./.gem.20250806-61233-m7kl74 clean
+
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250806-61233-m7kl74 sitelibdir\=./.gem.20250806-61233-m7kl74
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250806-61233-m7kl74 sitelibdir\=./.gem.20250806-61233-m7kl74 install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20250806-61233-m7kl74/skiptrace/internal
+
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20250806-61233-m7kl74 sitelibdir\=./.gem.20250806-61233-m7kl74 clean

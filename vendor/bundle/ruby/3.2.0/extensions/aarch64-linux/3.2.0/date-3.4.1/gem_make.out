@@ -1,0 +1,24 @@
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/date-3.4.1/ext/date
+/home/mutsumi/.rbenv/versions/3.2.8/bin/ruby extconf.rb
+checking for rb_category_warn()... yes
+checking for timezone in time.h with  -Werror... yes
+checking for altzone in time.h with  -Werror... no
+creating Makefile
+
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/date-3.4.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20250806-61233-qab8vx sitelibdir\=./.gem.20250806-61233-qab8vx clean
+
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/date-3.4.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20250806-61233-qab8vx sitelibdir\=./.gem.20250806-61233-qab8vx
+compiling date_core.c
+compiling date_parse.c
+compiling date_strftime.c
+compiling date_strptime.c
+linking shared-object date_core.so
+
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/date-3.4.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20250806-61233-qab8vx sitelibdir\=./.gem.20250806-61233-qab8vx install
+/usr/bin/install -c -m 0755 date_core.so ./.gem.20250806-61233-qab8vx
+
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/date-3.4.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20250806-61233-qab8vx sitelibdir\=./.gem.20250806-61233-qab8vx clean

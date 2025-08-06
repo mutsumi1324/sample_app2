@@ -1,0 +1,18 @@
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+/home/mutsumi/.rbenv/versions/3.2.8/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250806-61233-1lesml sitelibdir\=./.gem.20250806-61233-1lesml clean
+
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250806-61233-1lesml sitelibdir\=./.gem.20250806-61233-1lesml
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250806-61233-1lesml sitelibdir\=./.gem.20250806-61233-1lesml install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20250806-61233-1lesml/racc
+
+current directory: /home/mutsumi/projects/rails-tutorial/sample_app2/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250806-61233-1lesml sitelibdir\=./.gem.20250806-61233-1lesml clean
