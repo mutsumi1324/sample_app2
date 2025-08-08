@@ -1,0 +1,6 @@
+{
+  "rubyLsp.useBundler": true,
+  "files.associations": {
+    "*.html.erb": "html"
+  }
+}

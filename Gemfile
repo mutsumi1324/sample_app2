@@ -15,6 +15,7 @@ gem "bootsnap",        "1.16.0", require: false
 gem "sqlite3",         "1.6.1"
 gem "concurrent-ruby", "1.3.4"
 
+
 group :development, :test do
   gem 'reline', '0.5.10'
   gem "debug",   "1.7.1", platforms: %i[ mri mingw x64_mingw ]
@@ -25,6 +26,8 @@ group :development do
   gem "solargraph",          "0.53.4"
   gem "irb",                 "1.10.0"
   gem "repl_type_completor", "0.1.2"
+  gem 'ruby-lsp', require: false
+  gem 'rubocop', require: false
 end
 
 group :test do
